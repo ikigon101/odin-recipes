@@ -1,0 +1,44 @@
+#background{
+    background-color: 
+    #292428;
+}
+
+#center{
+    text-align: center;
+}
+.img{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 300px;
+}
+
+h1{
+    font-family: Tangerine; 
+    text-align: center;
+    font-size: 80px;
+    color : wheat;
+}
+
+a:link, a:visited {
+    background-color: #292428;
+    color: bisque;
+    border: 2px solid #292428;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    
+    
+  }
+  
+  a:hover, a:active {
+    background-color: bisque;
+    color: #292428;
+  }
+
+  .links{
+      margin-top: 90px;
+      text-align: center;
+      
+  }

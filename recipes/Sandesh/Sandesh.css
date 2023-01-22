@@ -1,0 +1,42 @@
+
+img{
+    text-align: center;
+    width:350px;
+    height: 500px;
+    object-fit: cover;
+    float:center;
+    margin-left: 30px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+#center{
+    text-align:center;
+}
+h1{
+    color: #c1c7ab;
+    text-align: center;
+   font-family: "Dancing Script";
+   font-size: 70px;
+}
+.font{
+    font-family: "Public Sans";
+    font-weight: bold;
+    font-size: larger;
+}
+a:link, a:visited {
+    background-color: #1e4129;
+    color:#c1c7ab ;
+    border: 2px solid #1e4129;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    
+    
+  }
+  
+  a:hover, a:active {
+    background-color: #c1c7ab ;
+    color: #1e4129 ;
+  }
